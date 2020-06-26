@@ -1,4 +1,6 @@
-# MOONTON ACCOUNT CHECKER
+# MOONTON ACCOUNT CHECKER [CLI]
+
+Can only be run in python3
 
 ![IMG](ss.png)
 
