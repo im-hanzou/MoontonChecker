@@ -1,6 +1,6 @@
 # MOONTON ACCOUNT CHECKER
 
-[!IMG](ss.png)
+![IMG](ss.png)
 
 ## Install
 ```
